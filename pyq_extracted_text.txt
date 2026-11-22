@@ -1,0 +1,63 @@
+
+================================================================================
+FILE: tbc201_tbi201_endsem_2022_jul.pdf
+================================================================================
+PAGES: 2
+
+--- PAGE 1 ---
+
+
+--- PAGE 2 ---
+
+
+================================================================================
+FILE: tbc201_tbi201_tbs201_endsem_2023_jun.pdf
+================================================================================
+PAGES: 2
+
+--- PAGE 1 ---
+
+
+--- PAGE 2 ---
+
+
+================================================================================
+FILE: tbc201_endsem_2024_jun (2).pdf
+================================================================================
+PAGES: 1
+
+--- PAGE 1 ---
+
+
+================================================================================
+FILE: tbc301_tbd301_tbi303_tbl305_endsem_2025_dec.pdf
+================================================================================
+PAGES: 2
+
+--- PAGE 1 ---
+Graphig, Universityunder section of OGC Act. 1956 End Term (Odd) Semester Examination November 2025 Roll no.... GEHU/02E/9.1.3 Name ofthe Course and semester: (IT) Name of the Paper: Introduction to Data Structures Paper Code: TBC 301/TBD 30t/TB1303/01-305 Time: 3-hour Time: 3 hours Maximum Marks: 100 Maximum Marks: 100 Note: (i) (ii) (iii) (iv) QI. a. All the questions are compulsory. Answer any two sub questions from a, b and c in each main question. Total marks for each question is 20 (twenty). Each sub-question carries 10 marks. write applications of stack and queue in computer science. (2X10=20 Marks) (COI, C02, C03) b. Assume that you have a single linked list. First node of the linked list is pointed by a pointer P TR. Write a C function to count all the nodes having even information. c. Convert the following infix expression into postfix expression using stack. Q2. (2X10=20 Marks) (001, C02, C03) a. Assume that you have a double linked list. First node is pointed by pointer Ptr. Write a C function to delete first node of the double linked list. b. Explain followings with examples malloc() , calloc() ,free() , realloc() c. Write a C function implement Push operation of stack using linked list. Q3. (2X10=20 Marks) (C02, C03, C04) a. Evaluate the following postfix expression using stack show (all the steps) 6,2, *,6 2, -, *,6, /,4,2, A, + (Here comma is used as separator only). b. Draw a binary tree using its in-order and pre-order traversals: In order: D, Preorder: A, B, D, E, C, F, G. c. Write a c program to store N elements in 1 D array then count frequency of each element in the array. (Do not use temporary array) Page 1 of 2
+
+--- PAGE 2 ---
+Graphic EraUN5VEFZSZTY Established by an Of the State Legisla:ute UttarakhaM (AdNr.1yamSankhya 12 Of 2011} university under section 2(f) Of WGC Act. End Term (Odd) Semester Examination November 2025 GEHU/02E/9.1.3 (24. (2M 0=20 Marks) (C02, C03, C04) a. Apply bubble sort on following data: 22,8,12,13,4,5,18,30 (show all the steps). b. Write a C function to create a binary search tree and then count total number of leaf nodes in the binary search tree. c. Explain following: i)Circular Queue ii) Doubly Ended Queue Q5. iii) Priority Queue (2X10=20 Marks) (C03, C04, C05) a. Explain Huffman's algorithm. Draw Huffman's tree using following data. Data Item: A B Weight: c 1 D 3 E 4 F 2 b. Write the limitations of single linked list and double linked list. c. Explain following: i) Linear probing ii) Quadraticprobing iii) Synonym chaining Page 2 of 2
+
+================================================================================
+FILE: TBD 301 Introdcution to Data structures-1.docx
+================================================================================
+
+--- PARAGRAPHS ---
+TBD 301- Introduction to Data Structures
+
+--- TABLES ---
+TABLE 1
+Program | Bachelor of Computer Applications
+Semester | 3
+Course Title | Introduction to Data Structures
+Course Code | TBD 301
+Course Credits | 3
+Course Type | Core Theory Course
+TABLE 2
+1. | Unit 1: Introduction Basic Terminology, Types of Data structure, operation on Data structure, Algorithm and its characteristics ,time and space complexity, Pointers ,Double pointer and Dynamic Memory Allocation , Array , insert and delete operation on array , application & limitation of Array.
+2. | Unit 2: Stacks and Queues  Stacks: Introduction, Applications of Stack, Array implementations of a Stack, Infix, Prefix and Postfix Expressions, converting infix expressions to prefix and postfix forms, Evaluation of postfix expression Queues: Introduction, Applications of Queue, Array implementation of queues, Circular Queue, Doubly Ended Queue, Priority Queue
+3. | Unit 3: Linked Lists Introduction,  Linked Lists, Building a Linked List, Traversing the Linked List, Insert and Delete Operations, Searching in a Linked List, Implementation of stack and queue using linked list, Circular Linked List, Doubly Linked List
+4. | Unit 4: Searching and Sorting Searching: Sequential Search, Binary Search, Hashing: Hash Table, Hash Functions, Collision Resolution Strategies, Hash Table Implementation Sorting: Bubble Sort, Selection Sort and Insertion Sort.
+5. | Unit 5: Trees Trees: Basic Terminology, Binary Trees: Definition and properties of Binary Trees, Binary Tree Representation, Algebraic Expressions, Types of binary trees, Binary tree traversals. BST, insertion ,deletion and traversing in BST, Threaded binary tree ,Huffman algorithm and Huffman tree
